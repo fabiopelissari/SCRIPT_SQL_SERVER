@@ -1,0 +1,20 @@
+🧩 SQL Server Administration Scripts
+
+Este repositório contém uma coleção de scripts T-SQL voltados para administração, monitoramento e otimização de bancos de dados Microsoft SQL Server.
+Os scripts foram organizados e documentados para auxiliar DBAs e desenvolvedores na execução de tarefas rotineiras e na resolução de problemas de forma prática e eficiente.
+
+
+📘 Conteúdo
+
+Monitoramento de performance (CPU, memória, I/O, waits, etc.)
+Gerenciamento de backups e restores
+Manutenção de índices e estatísticas
+Auditoria e segurança
+Coleta de métricas e automação de tarefas administrativas
+Scripts de troubleshooting e análise de bloqueios
+
+
+⚙️ Objetivo
+
+Centralizar e compartilhar boas práticas de administração do SQL Server, contribuindo para ambientes mais estáveis, seguros e performáticos.
+
